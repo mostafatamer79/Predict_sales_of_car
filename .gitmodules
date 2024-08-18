@@ -1,0 +1,3 @@
+[submodule "predict_sales_of_car"]
+	path = predict_sales_of_car
+	url = https://github.com/mostafatamer79/Predict_sales_of_car.git
